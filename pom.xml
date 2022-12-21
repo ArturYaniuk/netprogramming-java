@@ -13,9 +13,9 @@
     <properties>
         <java-mail-api.verison>1.6.2</java-mail-api.verison>
         <apache-common.verison>3.12.0</apache-common.verison>
-        <lombok.verison>1.18.24</lombok.verison>
-        <junit5.verison>5.9.0</junit5.verison>
-        <mockito.verison>4.8.0</mockito.verison>
+        <lombok.verison>1.18.22</lombok.verison>
+        <junit5.verison>5.8.1</junit5.verison>
+        <mockito.verison>4.0.0</mockito.verison>
     </properties>
 
     <dependencies>
@@ -40,7 +40,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.15.3</version>
+            <version>1.14.3</version>
         </dependency>
 
         <dependency>
